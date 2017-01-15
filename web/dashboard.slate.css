@@ -76,7 +76,7 @@ code {
 
     /* fix minimum scrollbar issue in firefox */
     min-height: 99px;
-
+	height: 200px;
     /* required for child elements to have absolute position */
     position: relative;
 
